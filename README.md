@@ -1,6 +1,6 @@
-<h1>HEYGUHH</h1>
+<h1>GuhhSchool</h1>
 
-- 👋 Olá, eu sou o [@heyGuhh](https://github.com/heyGuhh)
+- 👋 Olá, eu sou o [@GuhhSchool](https://github.com/GuhhSchool)
 - 👀 Eu estou interessado em programação e em como funciona o GitHub
 - 🌱 Eu atualmente estou aprendendo JavaScript, Java e Scratch
 - 💞️ Espero ajudar, contribuir e receber ajuda desta comunidade! </br> </br>
