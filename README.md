@@ -1,6 +1,7 @@
 <h1>GuhhSchool</h1>
 
 - 👋 Olá, eu sou o [@GuhhSchool](https://github.com/GuhhSchool)
+- 🎒 Esta é uma conta de estudante 
 - 👀 Eu estou interessado em programação e em como funciona o GitHub
 - 🌱 Eu atualmente estou aprendendo JavaScript, Java e Scratch
 - 💞️ Espero ajudar, contribuir e receber ajuda desta comunidade! </br> </br>
