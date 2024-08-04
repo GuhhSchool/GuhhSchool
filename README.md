@@ -4,7 +4,7 @@
 ![Uma faixa escrita "GuhhSchool"](https://i.imgur.com/vkHADGW.png)
 </br></br>
 ## ⓘ Informações
-• Estudante de Colégio Estadual Público </br>
+• Estudante de colégio estadual</br>
 • Residente do Estado de Paraná </br>
 • Região metropolitana de Curitiba </br>
 • Nesta conta há publicações de atividades e concursos escolares </br>
